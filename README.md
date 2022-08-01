@@ -1,6 +1,5 @@
-# Task2
-This is the Iot path task  at Smart Methods company 
-#TASK 2
+
+# TASK 2
 Programming a web page to control the arms using web series api ,
 
 
